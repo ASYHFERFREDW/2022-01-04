@@ -1,0 +1,22 @@
+<div class="row">
+        <div class="col border">1</div>
+        <div class="col border">2</div>
+        <div class="col border">3</div>
+        <div class="col border">4</div>
+        <div class="col border">5</div>
+        <div class="col border">6</div>
+        <div class="col border">7</div>
+        <div class="col border">8</div>
+        <div class="col border">9</div>
+        <div class="col border">10</div>
+        <div class="col border">11</div>
+        <div class="col border">12</div>
+        </div>
+        <div class="row">
+            <div class="col-12 border bg-danger col-xl-4 col-lg-2 col-md-5 col-sm-3">A</div>
+            <div class="col-12 border bg-primary col-xl-4 col-lg-5 col-md-2 col-sm-4">B</div>
+            <div class="col-12 border bg-secondary col-xl-4 col-lg-5 col-md-5 col-sm-5">C</div>
+    </div>
+</div>
+ </body>
+</html>
